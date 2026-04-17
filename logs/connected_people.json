@@ -1,0 +1,992 @@
+[
+  {
+    "name": "Bao Hoai Tran, Verified",
+    "profileUrl": "https://www.linkedin.com/in/bao-hoai-tran/",
+    "connectedAt": "2025-12-11 13:44:03"
+  },
+  {
+    "name": "Nhân Hà Thế, Verified",
+    "profileUrl": "https://www.linkedin.com/in/nhanhathe/",
+    "connectedAt": "2025-12-11 13:44:06"
+  },
+  {
+    "name": "Tri Bui Le Nhat",
+    "profileUrl": "https://www.linkedin.com/in/tri-bui-le-nhat-0a643b336/",
+    "connectedAt": "2025-12-11 13:44:09"
+  },
+  {
+    "name": "Cần Dương Bá",
+    "profileUrl": "https://www.linkedin.com/in/bacan-net/",
+    "connectedAt": "2025-12-11 13:44:11"
+  },
+  {
+    "name": "Vinh Nguyen Duc Quang, Verified",
+    "profileUrl": "https://www.linkedin.com/in/quangvinh290700/",
+    "connectedAt": "2025-12-11 13:44:14"
+  },
+  {
+    "name": "Ngô Tấn Cang",
+    "profileUrl": "https://www.linkedin.com/in/ngo-tan-cang/",
+    "connectedAt": "2025-12-11 13:44:16"
+  },
+  {
+    "name": "Phong Trần Gia Nguyên",
+    "profileUrl": "https://www.linkedin.com/in/phong-tr%E1%BA%A7n-gia-nguy%C3%AAn/",
+    "connectedAt": "2025-12-11 13:44:19"
+  },
+  {
+    "name": "Phan Trần Thùy Oanh",
+    "profileUrl": "https://www.linkedin.com/in/phan-tr%E1%BA%A7n-th%C3%B9y-oanh-b3408038a/",
+    "connectedAt": "2025-12-11 13:44:21"
+  },
+  {
+    "name": "Nghia Le Ngoc",
+    "profileUrl": "https://www.linkedin.com/in/nghialn/",
+    "connectedAt": "2025-12-11 13:44:23"
+  },
+  {
+    "name": "nhu nam",
+    "profileUrl": "https://www.linkedin.com/in/nhu-nam-0b388221/",
+    "connectedAt": "2025-12-11 13:44:25"
+  },
+  {
+    "name": "Bui Tien Dat, Verified",
+    "profileUrl": "https://www.linkedin.com/in/btdat1412/",
+    "connectedAt": "2025-12-11 13:44:28"
+  },
+  {
+    "name": "Từ Quang Chương",
+    "profileUrl": "https://www.linkedin.com/in/tquangchuong04/",
+    "connectedAt": "2025-12-11 13:44:30"
+  },
+  {
+    "name": "Phuc Nguyen, Premium",
+    "profileUrl": "https://www.linkedin.com/in/phucnt1992/",
+    "connectedAt": "2025-12-11 13:44:32"
+  },
+  {
+    "name": "Nguyễn Chí Tâm",
+    "profileUrl": "https://www.linkedin.com/in/tamnc1999/",
+    "connectedAt": "2025-12-11 13:44:34"
+  },
+  {
+    "name": "Khanh Le Huu",
+    "profileUrl": "https://www.linkedin.com/in/khanh-le-huu-a2b16934b/",
+    "connectedAt": "2025-12-11 13:46:21"
+  },
+  {
+    "name": "Phong Mai",
+    "profileUrl": "https://www.linkedin.com/in/phong-mai-2448892a4/",
+    "connectedAt": "2025-12-11 13:46:23"
+  },
+  {
+    "name": "Nhat Truong Hoang",
+    "profileUrl": "https://www.linkedin.com/in/nhat-truong-hoang-b16b8029b/",
+    "connectedAt": "2025-12-11 13:46:25"
+  },
+  {
+    "name": "Lê Quốc Trung",
+    "profileUrl": "https://www.linkedin.com/in/leqtrung2004/",
+    "connectedAt": "2025-12-11 13:46:28"
+  },
+  {
+    "name": "Luân Nguyễn Thành",
+    "profileUrl": "https://www.linkedin.com/in/ngthluan285/",
+    "connectedAt": "2025-12-11 13:46:30"
+  },
+  {
+    "name": "Tâm Hr",
+    "profileUrl": "https://www.linkedin.com/in/t%C3%A2m-hr-825b0a392/",
+    "connectedAt": "2025-12-11 13:46:33"
+  },
+  {
+    "name": "Binh Yến",
+    "profileUrl": "https://www.linkedin.com/in/binh-y%E1%BA%BFn-9a8505384/",
+    "connectedAt": "2025-12-11 13:46:35"
+  },
+  {
+    "name": "Quoc Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/quoc-nguyen-hcmut/",
+    "connectedAt": "2025-12-11 13:46:37"
+  },
+  {
+    "name": "Thang Tran",
+    "profileUrl": "https://www.linkedin.com/in/huythangtran/",
+    "connectedAt": "2025-12-11 13:46:39"
+  },
+  {
+    "name": "Dung Tran Ho Ngoc, Verified",
+    "profileUrl": "https://www.linkedin.com/in/ngocdung2003/",
+    "connectedAt": "2025-12-11 13:46:41"
+  },
+  {
+    "name": "Kiếm Hoàng",
+    "profileUrl": "https://www.linkedin.com/in/binjuhor/",
+    "connectedAt": "2025-12-11 13:46:44"
+  },
+  {
+    "name": "Truc Nguyen, Verified",
+    "profileUrl": "https://www.linkedin.com/in/truc-nguyen-081717144/",
+    "connectedAt": "2025-12-11 13:46:46"
+  },
+  {
+    "name": "Thương Nguyễn Hoài",
+    "profileUrl": "https://www.linkedin.com/in/ngthuong45/",
+    "connectedAt": "2025-12-11 13:46:49"
+  },
+  {
+    "name": "An Nguyen Quoc, Verified",
+    "profileUrl": "https://www.linkedin.com/in/nguyenquocan-relator/",
+    "connectedAt": "2025-12-11 13:46:51"
+  },
+  {
+    "name": "Nhân (Clive), Verified",
+    "profileUrl": "https://www.linkedin.com/in/clivetran/",
+    "connectedAt": "2025-12-11 13:46:54"
+  },
+  {
+    "name": "Yến Nhi Trần",
+    "profileUrl": "https://www.linkedin.com/in/y%E1%BA%BFn-nhi-tr%E1%BA%A7n-540065370/",
+    "connectedAt": "2025-12-11 13:46:56"
+  },
+  {
+    "name": "Thanh Thảo Nguyễn",
+    "profileUrl": "https://www.linkedin.com/in/thanh-th%E1%BA%A3o-nguy%E1%BB%85n-4271a8374/",
+    "connectedAt": "2025-12-11 14:50:44"
+  },
+  {
+    "name": "Minh Bui Quoc, Verified",
+    "profileUrl": "https://www.linkedin.com/in/bqmxnh/",
+    "connectedAt": "2025-12-11 14:50:46"
+  },
+  {
+    "name": "Cao Minh Phạm, Verified",
+    "profileUrl": "https://www.linkedin.com/in/cao-minh-ph%E1%BA%A1m-573256229/",
+    "connectedAt": "2025-12-11 14:50:48"
+  },
+  {
+    "name": "Trần Vy, Verified",
+    "profileUrl": "https://www.linkedin.com/in/tranyvy2003/",
+    "connectedAt": "2025-12-11 14:50:51"
+  },
+  {
+    "name": "Dương Thiện Chí, Verified",
+    "profileUrl": "https://www.linkedin.com/in/dthienchis/",
+    "connectedAt": "2025-12-11 14:50:54"
+  },
+  {
+    "name": "The Tam Bui",
+    "profileUrl": "https://www.linkedin.com/in/thetam141/",
+    "connectedAt": "2025-12-11 14:50:57"
+  },
+  {
+    "name": "Quân Hồ Mạnh, Verified",
+    "profileUrl": "https://www.linkedin.com/in/homanhquan1812/",
+    "connectedAt": "2025-12-11 14:50:59"
+  },
+  {
+    "name": "Nguyễn Văn Thống, Verified",
+    "profileUrl": "https://www.linkedin.com/in/kidhood/",
+    "connectedAt": "2025-12-11 14:51:03"
+  },
+  {
+    "name": "Việt Anh Nguyễn",
+    "profileUrl": "https://www.linkedin.com/in/vanh6803/",
+    "connectedAt": "2025-12-11 14:51:04"
+  },
+  {
+    "name": "Ton Minh Thien",
+    "profileUrl": "https://www.linkedin.com/in/tmt2003hr/",
+    "connectedAt": "2025-12-11 14:51:07"
+  },
+  {
+    "name": "Ngan Lai",
+    "profileUrl": "https://www.linkedin.com/in/ngan-lai-628378137/",
+    "connectedAt": "2025-12-11 14:51:09"
+  },
+  {
+    "name": "Vân Kiều Huỳnh",
+    "profileUrl": "https://www.linkedin.com/in/v%C3%A2n-ki%E1%BB%81u-hu%E1%BB%B3nh-5501a037b/",
+    "connectedAt": "2025-12-11 14:51:12"
+  },
+  {
+    "name": "Dat Xuan Hoang, Verified",
+    "profileUrl": "https://www.linkedin.com/in/dathx/",
+    "connectedAt": "2025-12-11 14:51:15"
+  },
+  {
+    "name": "Bảo Ngọc Hà",
+    "profileUrl": "https://www.linkedin.com/in/b%E1%BA%A3o-ng%E1%BB%8Dc-h%C3%A0-694b12363/",
+    "connectedAt": "2025-12-12 14:28:05"
+  },
+  {
+    "name": "Văn Tiến Đạt",
+    "profileUrl": "https://www.linkedin.com/in/datvan058/",
+    "connectedAt": "2025-12-12 14:28:10"
+  },
+  {
+    "name": "Kiet Khuong",
+    "profileUrl": "https://www.linkedin.com/in/nhankietkhuong/",
+    "connectedAt": "2025-12-12 14:28:12"
+  },
+  {
+    "name": "Xuân Quý Mai",
+    "profileUrl": "https://www.linkedin.com/in/maixuanquy/",
+    "connectedAt": "2025-12-12 14:28:15"
+  },
+  {
+    "name": "Tiến Nhật",
+    "profileUrl": "https://www.linkedin.com/in/nhattien1114/",
+    "connectedAt": "2025-12-12 14:28:17"
+  },
+  {
+    "name": "Thinh Pham",
+    "profileUrl": "https://www.linkedin.com/in/thinh-pham-ceaut/",
+    "connectedAt": "2025-12-12 14:28:19"
+  },
+  {
+    "name": "Quốc Huy Hồ Nguyễn",
+    "profileUrl": "https://www.linkedin.com/in/qu%E1%BB%91c-huy-h%E1%BB%93-nguy%E1%BB%85n-a18861247/",
+    "connectedAt": "2025-12-12 14:28:23"
+  },
+  {
+    "name": "Tai Nguyen Huu",
+    "profileUrl": "https://www.linkedin.com/in/huut4i/",
+    "connectedAt": "2025-12-12 14:28:26"
+  },
+  {
+    "name": "Huynh Van Hoa Hiep",
+    "profileUrl": "https://www.linkedin.com/in/hiep-huynh-van/",
+    "connectedAt": "2025-12-12 14:28:28"
+  },
+  {
+    "name": "Nguyễn Quang Vinh",
+    "profileUrl": "https://www.linkedin.com/in/arisa-vinh/",
+    "connectedAt": "2025-12-12 14:28:31"
+  },
+  {
+    "name": "Nguyễn Vĩ Nhân",
+    "profileUrl": "https://www.linkedin.com/in/nguy%E1%BB%85n-v%C4%A9-nh%C3%A2n-b94bab281/",
+    "connectedAt": "2025-12-12 14:28:35"
+  },
+  {
+    "name": "Nguyễn Thái Phong",
+    "profileUrl": "https://www.linkedin.com/in/im-phongnt/",
+    "connectedAt": "2025-12-12 14:28:38"
+  },
+  {
+    "name": "Phú Nguyễn Thanh Thành",
+    "profileUrl": "https://www.linkedin.com/in/thanhphu1311/",
+    "connectedAt": "2025-12-12 14:28:41"
+  },
+  {
+    "name": "Khôi Nguyễn",
+    "profileUrl": "https://www.linkedin.com/in/khoi-chinh-nguyen/",
+    "connectedAt": "2025-12-12 14:28:45"
+  },
+  {
+    "name": "Thuan Dam",
+    "profileUrl": "https://www.linkedin.com/in/thuan-dam-928062386/",
+    "connectedAt": "2025-12-12 14:28:47"
+  },
+  {
+    "name": "Ha (Hannia) Tran",
+    "profileUrl": "https://www.linkedin.com/in/hatran-fin/",
+    "connectedAt": "2025-12-12 14:28:50"
+  },
+  {
+    "name": "Tran Van Den",
+    "profileUrl": "https://www.linkedin.com/in/dentv/",
+    "connectedAt": "2025-12-12 14:28:54"
+  },
+  {
+    "name": "Haley Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/haley-nguyen-22876b37a/",
+    "connectedAt": "2025-12-12 14:29:00"
+  },
+  {
+    "name": "Nguyễn Hoàng Sơn",
+    "profileUrl": "https://www.linkedin.com/in/sonnhoang/",
+    "connectedAt": "2025-12-12 14:35:01"
+  },
+  {
+    "name": "Keni Nicholas Ondang",
+    "profileUrl": "https://www.linkedin.com/in/keniondang/",
+    "connectedAt": "2025-12-12 14:35:04"
+  },
+  {
+    "name": "Nhan Tu",
+    "profileUrl": "https://www.linkedin.com/in/nhantu2107/",
+    "connectedAt": "2025-12-12 14:35:08"
+  },
+  {
+    "name": "Tan Tai Pham",
+    "profileUrl": "https://www.linkedin.com/in/taipham2710/",
+    "connectedAt": "2025-12-12 14:35:11"
+  },
+  {
+    "name": "Thuý Hà Trần",
+    "profileUrl": "https://www.linkedin.com/in/thuyhatran77/",
+    "connectedAt": "2025-12-12 14:35:14"
+  },
+  {
+    "name": "Kien Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/devlindinh/",
+    "connectedAt": "2025-12-12 14:35:18"
+  },
+  {
+    "name": "Dinh Hoang Phuc",
+    "profileUrl": "https://www.linkedin.com/in/dinh-hoang-phuc-104912226/",
+    "connectedAt": "2025-12-12 14:35:20"
+  },
+  {
+    "name": "Nhật Nam Mai",
+    "profileUrl": "https://www.linkedin.com/in/nhat-nam-mai/",
+    "connectedAt": "2025-12-12 14:35:23"
+  },
+  {
+    "name": "Dat T Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/dattannguyen/",
+    "connectedAt": "2025-12-13 10:29:42"
+  },
+  {
+    "name": "Tien Vo Minh",
+    "profileUrl": "https://www.linkedin.com/in/tien-vo-minh-9b22b521b/",
+    "connectedAt": "2025-12-13 10:29:46"
+  },
+  {
+    "name": "Nhung Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/ngthtnhung/",
+    "connectedAt": "2025-12-13 10:29:48"
+  },
+  {
+    "name": "Quang Đăng Nguyễn",
+    "profileUrl": "https://www.linkedin.com/in/kdekiller/",
+    "connectedAt": "2025-12-13 10:29:52"
+  },
+  {
+    "name": "Nguyen Thong",
+    "profileUrl": "https://www.linkedin.com/in/nguyenthong1612/",
+    "connectedAt": "2025-12-13 10:29:53"
+  },
+  {
+    "name": "Thị Thuỷ Trần",
+    "profileUrl": "https://www.linkedin.com/in/th%E1%BB%8B-thu%E1%BB%B7-tr%E1%BA%A7n-911206385/",
+    "connectedAt": "2025-12-13 10:29:57"
+  },
+  {
+    "name": "Tai Hoang The Anh",
+    "profileUrl": "https://www.linkedin.com/in/anh-tai-hoang-the/",
+    "connectedAt": "2025-12-13 10:29:59"
+  },
+  {
+    "name": "Sơn Lê Phước",
+    "profileUrl": "https://www.linkedin.com/in/s%C6%A1n-l%C3%AA-ph%C6%B0%E1%BB%9Bc-973717252/",
+    "connectedAt": "2025-12-13 10:30:03"
+  },
+  {
+    "name": "Toàn Phan Phước",
+    "profileUrl": "https://www.linkedin.com/in/to%C3%A0n-phan-ph%C6%B0%E1%BB%9Bc-10a2bb291/",
+    "connectedAt": "2025-12-13 10:30:06"
+  },
+  {
+    "name": "Ly Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/nttly1502/",
+    "connectedAt": "2025-12-13 10:30:08"
+  },
+  {
+    "name": "Khanh Thai",
+    "profileUrl": "https://www.linkedin.com/in/khanhthai01204/",
+    "connectedAt": "2025-12-13 10:30:10"
+  },
+  {
+    "name": "Vo Tien Dat",
+    "profileUrl": "https://www.linkedin.com/in/vo-tien-dat-1b18651b4/",
+    "connectedAt": "2025-12-13 10:30:12"
+  },
+  {
+    "name": "HẠNH TRƯƠNG MINH",
+    "profileUrl": "https://www.linkedin.com/in/h%E1%BA%A1nh-tr%C6%B0%C6%A1ng-minh-419380375/",
+    "connectedAt": "2025-12-13 10:30:15"
+  },
+  {
+    "name": "Tuan Le-Anh",
+    "profileUrl": "https://www.linkedin.com/in/tuan-le-anh/",
+    "connectedAt": "2025-12-13 10:30:19"
+  },
+  {
+    "name": "Tu Nguyen Thanh",
+    "profileUrl": "https://www.linkedin.com/in/nguyenthanh-tu/",
+    "connectedAt": "2025-12-13 10:30:21"
+  },
+  {
+    "name": "Đức Tô Thanh",
+    "profileUrl": "https://www.linkedin.com/in/duc-to-thanh-data-analyst/",
+    "connectedAt": "2025-12-13 10:30:23"
+  },
+  {
+    "name": "Vĩnh Khang Nguyễn",
+    "profileUrl": "https://www.linkedin.com/in/khangzhuskyz/",
+    "connectedAt": "2025-12-13 10:30:25"
+  },
+  {
+    "name": "Nhan Pham",
+    "profileUrl": "https://www.linkedin.com/in/nhan-pham-53a891323/",
+    "connectedAt": "2025-12-13 10:30:28"
+  },
+  {
+    "name": "Cong La",
+    "profileUrl": "https://www.linkedin.com/in/cong-la-50a31a242/",
+    "connectedAt": "2025-12-14 13:13:53"
+  },
+  {
+    "name": "Linh Tran Duc",
+    "profileUrl": "https://www.linkedin.com/in/linh-tran-duc-26560026b/",
+    "connectedAt": "2025-12-14 13:13:56"
+  },
+  {
+    "name": "NGO DINH THUONG",
+    "profileUrl": "https://www.linkedin.com/in/mrthuong/",
+    "connectedAt": "2025-12-14 13:13:58"
+  },
+  {
+    "name": "Khoa Tran",
+    "profileUrl": "https://www.linkedin.com/in/khoatran139/",
+    "connectedAt": "2025-12-14 13:14:01"
+  },
+  {
+    "name": "ninh nguyenvu",
+    "profileUrl": "https://www.linkedin.com/in/vuninhnguyen/",
+    "connectedAt": "2025-12-14 13:14:03"
+  },
+  {
+    "name": "Đức Lương Minh",
+    "profileUrl": "https://www.linkedin.com/in/%C4%91%E1%BB%A9c-l%C6%B0%C6%A1ng-minh-633670270/",
+    "connectedAt": "2025-12-14 13:14:05"
+  },
+  {
+    "name": "Nguyễn Khánh Hoà",
+    "profileUrl": "https://www.linkedin.com/in/hoa-nguyen-khanh/",
+    "connectedAt": "2025-12-14 13:14:08"
+  },
+  {
+    "name": "Quoc An Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/annq04/",
+    "connectedAt": "2025-12-14 13:14:10"
+  },
+  {
+    "name": "Toan nguyen",
+    "profileUrl": "https://www.linkedin.com/in/toan-nguyen-1a33a3267/",
+    "connectedAt": "2025-12-14 13:14:13"
+  },
+  {
+    "name": "Loan N.",
+    "profileUrl": "https://www.linkedin.com/in/loan-n-31b703224/",
+    "connectedAt": "2025-12-14 13:14:15"
+  },
+  {
+    "name": "Đức Nguyễn",
+    "profileUrl": "https://www.linkedin.com/in/phucducktpm/",
+    "connectedAt": "2025-12-14 13:14:16"
+  },
+  {
+    "name": "Tan Luc Dang Tran",
+    "profileUrl": "https://www.linkedin.com/in/tan-luc-dang-tran-a12462279/",
+    "connectedAt": "2025-12-14 13:14:19"
+  },
+  {
+    "name": "Thành Trung Nguyễn",
+    "profileUrl": "https://www.linkedin.com/in/trungn83/",
+    "connectedAt": "2025-12-14 13:14:22"
+  },
+  {
+    "name": "Nhan Huynh",
+    "profileUrl": "https://www.linkedin.com/in/huynhnhan03/",
+    "connectedAt": "2025-12-14 13:14:24"
+  },
+  {
+    "name": "Tien Dang",
+    "profileUrl": "https://www.linkedin.com/in/tienda02/",
+    "connectedAt": "2025-12-15 12:16:31"
+  },
+  {
+    "name": "Phuc Nguyen Hoang",
+    "profileUrl": "https://www.linkedin.com/in/nhphucslo/",
+    "connectedAt": "2025-12-15 12:16:38"
+  },
+  {
+    "name": "Thien Bao",
+    "profileUrl": "https://www.linkedin.com/in/thnbao22/",
+    "connectedAt": "2025-12-15 12:16:40"
+  },
+  {
+    "name": "Khiem Hoang",
+    "profileUrl": "https://www.linkedin.com/in/khiemhm98/",
+    "connectedAt": "2025-12-15 12:16:43"
+  },
+  {
+    "name": "THƯƠNG NGUYỄN NGỌC SONG",
+    "profileUrl": "https://www.linkedin.com/in/songthuong/",
+    "connectedAt": "2025-12-15 12:16:45"
+  },
+  {
+    "name": "Hồ Phi Ưng Nguyễn",
+    "profileUrl": "https://www.linkedin.com/in/h%E1%BB%93-phi-%C6%B0ng-nguy%E1%BB%85n-aaa25524b/",
+    "connectedAt": "2025-12-15 12:16:48"
+  },
+  {
+    "name": "Huy Pham",
+    "profileUrl": "https://www.linkedin.com/in/huypq/",
+    "connectedAt": "2025-12-15 12:16:50"
+  },
+  {
+    "name": "Hoàng Lê Lam Giang",
+    "profileUrl": "https://www.linkedin.com/in/ho%C3%A0ng-l%C3%AA-lam-giang-3bb923359/",
+    "connectedAt": "2025-12-15 12:16:52"
+  },
+  {
+    "name": "Luong Van Tan Dat",
+    "profileUrl": "https://www.linkedin.com/in/luong-van-tan-dat/",
+    "connectedAt": "2025-12-16 10:00:35"
+  },
+  {
+    "name": "Hòa Trần",
+    "profileUrl": "https://www.linkedin.com/in/hoatran-data/",
+    "connectedAt": "2025-12-16 10:00:37"
+  },
+  {
+    "name": "Thanh Nguyen Nhat",
+    "profileUrl": "https://www.linkedin.com/in/thanhnn95/",
+    "connectedAt": "2025-12-16 10:00:40"
+  },
+  {
+    "name": "Kim Anh Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/kim-anh-ai/",
+    "connectedAt": "2025-12-16 10:00:42"
+  },
+  {
+    "name": "Nhat Tan Dao",
+    "profileUrl": "https://www.linkedin.com/in/nhat-tan-dao-236b781b9/",
+    "connectedAt": "2025-12-16 10:00:45"
+  },
+  {
+    "name": "Hoai-Nho Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/hoai-nho/",
+    "connectedAt": "2025-12-16 10:00:47"
+  },
+  {
+    "name": "Hoàng Hồ Nhật Minh",
+    "profileUrl": "https://www.linkedin.com/in/donaldmun/",
+    "connectedAt": "2025-12-16 10:00:50"
+  },
+  {
+    "name": "Nguyen Manh Tuan",
+    "profileUrl": "https://www.linkedin.com/in/manh-tuannguyen2002/",
+    "connectedAt": "2025-12-16 10:00:52"
+  },
+  {
+    "name": "Khang Trương Nguyễn Trung",
+    "profileUrl": "https://www.linkedin.com/in/trung-khang/",
+    "connectedAt": "2025-12-27 07:53:17"
+  },
+  {
+    "name": "Minh Trí Nguyễn",
+    "profileUrl": "https://www.linkedin.com/in/minh-tr%C3%AD-nguy%E1%BB%85n-16b845327/",
+    "connectedAt": "2025-12-27 07:53:19"
+  },
+  {
+    "name": "Yamin Thiri Wai",
+    "profileUrl": "https://www.linkedin.com/in/yamin-thiri-wai/",
+    "connectedAt": "2025-12-27 07:53:22"
+  },
+  {
+    "name": "Đức Trần",
+    "profileUrl": "https://www.linkedin.com/in/%C4%91%E1%BB%A9c-tr%E1%BA%A7n-989698243/",
+    "connectedAt": "2025-12-27 07:53:24"
+  },
+  {
+    "name": "Cong Tuong",
+    "profileUrl": "https://www.linkedin.com/in/cong-tuong-1636b3342/",
+    "connectedAt": "2025-12-27 07:53:26"
+  },
+  {
+    "name": "Nguyễn Minh Quang",
+    "profileUrl": "https://www.linkedin.com/in/quangnguyen1802/",
+    "connectedAt": "2025-12-27 07:53:29"
+  },
+  {
+    "name": "Quang Nguyen Ba Nhat",
+    "profileUrl": "https://www.linkedin.com/in/quang-nguyen-ba-nhat-961716290/",
+    "connectedAt": "2025-12-27 07:53:32"
+  },
+  {
+    "name": "Trieu Truong",
+    "profileUrl": "https://www.linkedin.com/in/quoc-trieu-129t2003/",
+    "connectedAt": "2025-12-27 07:53:35"
+  },
+  {
+    "name": "Thuat Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/thuat-nguyen1306/",
+    "connectedAt": "2026-01-18 15:58:38"
+  },
+  {
+    "name": "Nhat Le Ho Bao",
+    "profileUrl": "https://www.linkedin.com/in/lehobaonhat18/",
+    "connectedAt": "2026-01-18 15:58:41"
+  },
+  {
+    "name": "Vũ Tiến Đạt",
+    "profileUrl": "https://www.linkedin.com/in/vtd182/",
+    "connectedAt": "2026-01-18 15:58:44"
+  },
+  {
+    "name": "Vinh Bui",
+    "profileUrl": "https://www.linkedin.com/in/vinhh-bui/",
+    "connectedAt": "2026-01-18 15:58:46"
+  },
+  {
+    "name": "Trí Nguyễn",
+    "profileUrl": "https://www.linkedin.com/in/tr%C3%AD-nguy%E1%BB%85n-9b0653235/",
+    "connectedAt": "2026-01-18 15:58:49"
+  },
+  {
+    "name": "Tài Ngô",
+    "profileUrl": "https://www.linkedin.com/in/newnol/",
+    "connectedAt": "2026-01-18 15:58:52"
+  },
+  {
+    "name": "Nam Phan",
+    "profileUrl": "https://www.linkedin.com/in/nam-phan-66477b321/",
+    "connectedAt": "2026-01-18 15:58:54"
+  },
+  {
+    "name": "Dung Vo",
+    "profileUrl": "https://www.linkedin.com/in/dung-vo-512b85251/",
+    "connectedAt": "2026-01-18 15:58:56"
+  },
+  {
+    "name": "Triều Nguyễn",
+    "profileUrl": "https://www.linkedin.com/in/tri%E1%BB%81u-nguy%E1%BB%85n-644664209/",
+    "connectedAt": "2026-01-24 19:45:43"
+  },
+  {
+    "name": "Nguyên Nguyễn Bình",
+    "profileUrl": "https://www.linkedin.com/in/binhnguyennguyen/",
+    "connectedAt": "2026-01-24 19:45:47"
+  },
+  {
+    "name": "Bao Ngo",
+    "profileUrl": "https://www.linkedin.com/in/bao-ngo04/",
+    "connectedAt": "2026-01-24 19:45:52"
+  },
+  {
+    "name": "Ngô Nguyễn Duy Nhân",
+    "profileUrl": "https://www.linkedin.com/in/duy-nhan-ngo-nguyen-22278230b/",
+    "connectedAt": "2026-01-24 19:45:54"
+  },
+  {
+    "name": "Hai Ha Nguyen Thi",
+    "profileUrl": "https://www.linkedin.com/in/hai-ha-nguyen-thi-1b1510378/",
+    "connectedAt": "2026-01-24 19:45:57"
+  },
+  {
+    "name": "Vu Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/vu-nguyen-26a5271bb/",
+    "connectedAt": "2026-01-24 19:45:59"
+  },
+  {
+    "name": "Phat Tran Huynh Tan",
+    "profileUrl": "https://www.linkedin.com/in/phat-tran-huynh-tan-284b7328a/en/",
+    "connectedAt": "2026-01-24 19:46:03"
+  },
+  {
+    "name": "Hoài Trương Văn",
+    "profileUrl": "https://www.linkedin.com/in/truongvanhoai/",
+    "connectedAt": "2026-01-24 19:46:05"
+  },
+  {
+    "name": "Huy Do",
+    "profileUrl": "https://www.linkedin.com/in/huy-do-0783b348/",
+    "connectedAt": "2026-01-24 19:46:07"
+  },
+  {
+    "name": "Kien Nguyen Trung",
+    "profileUrl": "https://www.linkedin.com/in/kien-nguyen-trung-272a4922a/",
+    "connectedAt": "2026-01-24 19:46:09"
+  },
+  {
+    "name": "Dũng Vũ",
+    "profileUrl": "https://www.linkedin.com/in/d%C5%A9ng-v%C5%A9-81395a25b/",
+    "connectedAt": "2026-01-24 19:46:11"
+  },
+  {
+    "name": "Anh Vu",
+    "profileUrl": "https://www.linkedin.com/in/anh-vu-b6241bb5/",
+    "connectedAt": "2026-01-24 19:46:13"
+  },
+  {
+    "name": "Han Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/hannguyenvn/",
+    "connectedAt": "2026-01-24 19:46:16"
+  },
+  {
+    "name": "Thư Đặng Thị Minh",
+    "profileUrl": "https://www.linkedin.com/in/typnthu/",
+    "connectedAt": "2026-01-24 19:46:18"
+  },
+  {
+    "name": "Duy Cao",
+    "profileUrl": "https://www.linkedin.com/in/duycaoth/",
+    "connectedAt": "2026-01-24 19:46:20"
+  },
+  {
+    "name": "Nguyễn Tuấn Dương",
+    "profileUrl": "https://www.linkedin.com/in/tuanduong284/",
+    "connectedAt": "2026-01-24 19:46:22"
+  },
+  {
+    "name": "Hoai Huynh",
+    "profileUrl": "https://www.linkedin.com/in/hoai-huynh-30091999hvh/",
+    "connectedAt": "2026-01-29 08:06:41"
+  },
+  {
+    "name": "Ngoc Minh Tran",
+    "profileUrl": "https://www.linkedin.com/in/ngocmonk/",
+    "connectedAt": "2026-01-29 08:06:44"
+  },
+  {
+    "name": "Thanh Tran (Thành)",
+    "profileUrl": "https://www.linkedin.com/in/ttran-freelancer/",
+    "connectedAt": "2026-01-29 08:06:46"
+  },
+  {
+    "name": "Phước Hồ",
+    "profileUrl": "https://www.linkedin.com/in/hophuocrs/",
+    "connectedAt": "2026-01-29 08:06:49"
+  },
+  {
+    "name": "Lang Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/lang-nguyen-8372a31b6/",
+    "connectedAt": "2026-01-29 08:06:52"
+  },
+  {
+    "name": "Du Trương",
+    "profileUrl": "https://www.linkedin.com/in/dutruongdev/",
+    "connectedAt": "2026-01-29 08:06:55"
+  },
+  {
+    "name": "Đông Đinh Quang",
+    "profileUrl": "https://www.linkedin.com/in/dinhquangdong/",
+    "connectedAt": "2026-01-29 08:06:57"
+  },
+  {
+    "name": "Thuan Huynh",
+    "profileUrl": "https://www.linkedin.com/in/thuan-huynh-nauht429082/",
+    "connectedAt": "2026-01-29 08:07:00"
+  },
+  {
+    "name": "Hieu Pham",
+    "profileUrl": "https://www.linkedin.com/in/hieu-pham2502/",
+    "connectedAt": "2026-01-30 08:01:08"
+  },
+  {
+    "name": "Triet Dang",
+    "profileUrl": "https://www.linkedin.com/in/triet-dang-8b4751236/",
+    "connectedAt": "2026-01-30 08:01:12"
+  },
+  {
+    "name": "Trí Nguyễn",
+    "profileUrl": "https://www.linkedin.com/in/tri-nguyen-coding123/",
+    "connectedAt": "2026-01-30 08:01:14"
+  },
+  {
+    "name": "Tu Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/tu-nguyen-508346238/",
+    "connectedAt": "2026-01-30 08:01:18"
+  },
+  {
+    "name": "Đạt Trương Tiến",
+    "profileUrl": "https://www.linkedin.com/in/%C4%91%E1%BA%A1t-tr%C6%B0%C6%A1ng-ti%E1%BA%BFn-645a58255/",
+    "connectedAt": "2026-01-30 08:01:21"
+  },
+  {
+    "name": "Quoc Anh Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/quoc-anh-nguyen-88738a1b6/",
+    "connectedAt": "2026-01-30 08:01:26"
+  },
+  {
+    "name": "S3Corp. Careers",
+    "profileUrl": "https://www.linkedin.com/in/s3corpcareers/",
+    "connectedAt": "2026-01-30 08:01:31"
+  },
+  {
+    "name": "Tran Le Vinh Buu",
+    "profileUrl": "https://www.linkedin.com/in/tranlevinhbuu/",
+    "connectedAt": "2026-01-30 08:01:33"
+  },
+  {
+    "name": "Thao Vo",
+    "profileUrl": "https://www.linkedin.com/in/thaovohuy/",
+    "connectedAt": "2026-01-30 08:01:36"
+  },
+  {
+    "name": "Ha Phan RPA",
+    "profileUrl": "https://www.linkedin.com/in/ha-phan-rpa-15a5231b2/",
+    "connectedAt": "2026-01-30 08:01:39"
+  },
+  {
+    "name": "Martin Le",
+    "profileUrl": "https://www.linkedin.com/in/martin-le-216837297/",
+    "connectedAt": "2026-01-30 08:01:41"
+  },
+  {
+    "name": "Bạch Ngọc Tuân",
+    "profileUrl": "https://www.linkedin.com/in/tuanbn/",
+    "connectedAt": "2026-01-30 08:01:44"
+  },
+  {
+    "name": "Nguyễn Tứ Cường",
+    "profileUrl": "https://www.linkedin.com/in/tucuongbrt/",
+    "connectedAt": "2026-01-30 08:01:47"
+  },
+  {
+    "name": "Đoàn Trung Huy",
+    "profileUrl": "https://www.linkedin.com/in/doantrunghuy/",
+    "connectedAt": "2026-01-30 08:01:50"
+  },
+  {
+    "name": "An Nguyen (HR)",
+    "profileUrl": "https://www.linkedin.com/in/an-nguyen-hr-7586a228a/",
+    "connectedAt": "2026-01-30 08:01:52"
+  },
+  {
+    "name": "Huy Lee",
+    "profileUrl": "https://www.linkedin.com/in/huy-lee-7a52a2117/",
+    "connectedAt": "2026-01-30 08:01:55"
+  },
+  {
+    "name": "Cuong Huynh",
+    "profileUrl": "https://www.linkedin.com/in/cuonghuynh04/",
+    "connectedAt": "2026-01-30 08:01:57"
+  },
+  {
+    "name": "Phat Nguyen Thuan",
+    "profileUrl": "https://www.linkedin.com/in/phat-nguyen-thuan/",
+    "connectedAt": "2026-02-01 08:22:02"
+  },
+  {
+    "name": "Thiên Nguyễn",
+    "profileUrl": "https://www.linkedin.com/in/thi%C3%AAn-nguy%E1%BB%85n-2365751a1/",
+    "connectedAt": "2026-02-01 08:22:05"
+  },
+  {
+    "name": "Đỗ Huỳnh Nguyên Vũ",
+    "profileUrl": "https://www.linkedin.com/in/dohuynhnguyenvu/",
+    "connectedAt": "2026-02-01 08:22:07"
+  },
+  {
+    "name": "Pham Hoai Hiep",
+    "profileUrl": "https://www.linkedin.com/in/phamthihoaihiep/",
+    "connectedAt": "2026-02-01 08:22:09"
+  },
+  {
+    "name": "Kiệt Nguyễn",
+    "profileUrl": "https://www.linkedin.com/in/kietnguyenanh/",
+    "connectedAt": "2026-02-01 08:22:12"
+  },
+  {
+    "name": "Nhân Phạm Xuân",
+    "profileUrl": "https://www.linkedin.com/in/xnhan0205/",
+    "connectedAt": "2026-02-01 08:22:14"
+  },
+  {
+    "name": "Bac Nguyen Dinh Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/bac-nguyen-dinh-nguyen/",
+    "connectedAt": "2026-02-01 08:22:17"
+  },
+  {
+    "name": "Nhan Hong Ly Trung",
+    "profileUrl": "https://www.linkedin.com/in/honglytrungnhan/",
+    "connectedAt": "2026-02-01 08:22:19"
+  },
+  {
+    "name": "Khánh Huỳnh Tấn",
+    "profileUrl": "https://www.linkedin.com/in/htkhanh0210/",
+    "connectedAt": "2026-02-01 08:42:21"
+  },
+  {
+    "name": "Nguyễn Kim Nguyên",
+    "profileUrl": "https://www.linkedin.com/in/nguyenkimnguyen/",
+    "connectedAt": "2026-02-01 08:42:24"
+  },
+  {
+    "name": "Hồng Hạnh Nguyễn",
+    "profileUrl": "https://www.linkedin.com/in/h%E1%BB%93ng-h%E1%BA%A1nh-nguy%E1%BB%85n-684151396/",
+    "connectedAt": "2026-02-01 08:42:27"
+  },
+  {
+    "name": "Nigel H.",
+    "profileUrl": "https://www.linkedin.com/in/nigel-h-6b1933382/",
+    "connectedAt": "2026-02-01 08:42:30"
+  },
+  {
+    "name": "Long Dang",
+    "profileUrl": "https://www.linkedin.com/in/long-dnk/",
+    "connectedAt": "2026-02-01 08:42:32"
+  },
+  {
+    "name": "Việt Nguyễn Hoàng",
+    "profileUrl": "https://www.linkedin.com/in/hviet03/",
+    "connectedAt": "2026-02-01 08:42:35"
+  },
+  {
+    "name": "Lưu Trọng Nghĩa",
+    "profileUrl": "https://www.linkedin.com/in/luu-trong-nghia/",
+    "connectedAt": "2026-02-01 08:42:38"
+  },
+  {
+    "name": "Hen Huynh",
+    "profileUrl": "https://www.linkedin.com/in/chihenhuynh/",
+    "connectedAt": "2026-02-01 08:42:40"
+  },
+  {
+    "name": "Khoa Ho Nguyen Dang",
+    "profileUrl": "https://www.linkedin.com/in/khoahonguyendang/",
+    "connectedAt": "2026-02-01 08:45:56"
+  },
+  {
+    "name": "Huu Trong",
+    "profileUrl": "https://www.linkedin.com/in/huu-trong-544605385/",
+    "connectedAt": "2026-02-01 08:45:58"
+  },
+  {
+    "name": "Peter Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/peter-nguyen-ai/",
+    "connectedAt": "2026-02-01 08:46:00"
+  },
+  {
+    "name": "Phap Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/phap-nguyen-hoang-viet/",
+    "connectedAt": "2026-02-01 08:46:03"
+  },
+  {
+    "name": "Khuong Duy Cao Huu",
+    "profileUrl": "https://www.linkedin.com/in/khuongduy21/",
+    "connectedAt": "2026-02-01 08:46:05"
+  },
+  {
+    "name": "Bùi Đăng",
+    "profileUrl": "https://www.linkedin.com/in/bui-dang-b5291a1b9/",
+    "connectedAt": "2026-02-01 08:46:08"
+  },
+  {
+    "name": "Minh Pham Quang",
+    "profileUrl": "https://www.linkedin.com/in/pqminh0904/",
+    "connectedAt": "2026-02-01 08:46:11"
+  },
+  {
+    "name": "Khoi Nguyen",
+    "profileUrl": "https://www.linkedin.com/in/koi-ce/",
+    "connectedAt": "2026-02-01 08:46:13"
+  }
+]

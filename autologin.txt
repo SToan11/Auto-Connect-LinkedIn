@@ -1,0 +1,13 @@
+﻿//// 3. Nhập username
+//IWebElement emailInput = wait.Until(d =>
+//    d.FindElement(By.Id("username"))
+//);
+//emailInput.Clear();
+//emailInput.SendKeys("Your-Mail@gmail.com");
+
+//// 4. Nhập password
+//IWebElement passwordInput = wait.Until(d =>
+//    d.FindElement(By.Id("password"))
+//);
+//passwordInput.Clear();
+//passwordInput.SendKeys("Your-Pass");
