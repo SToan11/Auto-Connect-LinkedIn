@@ -1,0 +1,37 @@
+# Visual Studio / .NET Framework
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.opendb
+
+# Build output
+bin/
+obj/
+[Oo]utput/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# NuGet cache / restore artifacts
+packages/
+*.nupkg
+
+# Logs and runtime data
+logs/*.txt
+logs/*.json
+logs/*.log
+logs/*.csv
+logs/*.tmp
+logs/*.cache
+
+# OS files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Tooling cache
+.qodo/
