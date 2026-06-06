@@ -10,6 +10,7 @@
 # Build output
 bin/
 obj/
+logs/
 [Oo]utput/
 [Dd]ebug/
 [Rr]elease/
